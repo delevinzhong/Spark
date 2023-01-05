@@ -1,6 +1,6 @@
 # Spark
 Windows 本地配置spark开发环境
-1. 安装JDK
+1. 安装JDK <br>
    JDK下载路径 ： https://www.oracle.com/cn/java/technologies/downloads/ <br>
    安装好后配置环境变量：<br>
     新建JAVA_HOME <br>
