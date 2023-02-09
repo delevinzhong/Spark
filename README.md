@@ -1,5 +1,9 @@
 # Spark
-Windows 本地配置spark开发环境 (Refer https://zhuanlan.zhihu.com/p/149469688)
+Windows 本地配置spark开发环境 (Refer https://zhuanlan.zhihu.com/p/149469688) <br>
+Laptop 配置 ： 
+   HADOOP_HOME : D:\Software\hadoop-2.7.1 <br>
+   SPARK_HOME : D:\Software\spark-3.0.0-bin-hadoop3.2 <br>
+   SCALA : D:\Software\scala-2.12.16 <br>
 1. 安装JDK <br>
    JDK下载路径 ： https://www.oracle.com/cn/java/technologies/downloads/ <br>
    安装好后配置环境变量：<br>
