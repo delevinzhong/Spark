@@ -25,5 +25,5 @@ Windows 本地配置spark开发环境 (Refer https://zhuanlan.zhihu.com/p/149469
    下载完成后解压到你喜欢的目录，然后配置环境变量，例如解压在C:\Users\dell\Documents\Env\hadoop-3.2.2目录下，则环境变量如下配置 <br>
    配置变量名为HADOOP_HOME，值为C:\Users\dell\Documents\Env\hadoop-3.2.2 <br>
    在Path变量下新建%HADOOP_HOME%\bin <br>
-   到这里https://github.com/cdarlint/winutils对应版本的bin目录下载hadoop.dll和winutils.exe，复制到hadoop目录的bin目录下 <br>
+   到这里 https://github.com/cdarlint/winutils 对应版本的bin目录下载hadoop.dll和winutils.exe，复制到hadoop目录的bin目录下 <br>
 
